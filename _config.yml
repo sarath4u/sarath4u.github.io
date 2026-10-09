@@ -1,5 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: "dark"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 title: "Sarath R. | CFD & Scientific Computing"
 name: "Sarath R."
@@ -12,9 +13,6 @@ repository: "sarath4u/sarath4u.github.io"
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
-
-plugins:
-  - jekyll-include-cache
 
 author:
   name: "Sarath R."
