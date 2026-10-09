@@ -16,6 +16,12 @@ plugins:
 
 author:
   name: "Sarath R."
+  bio: "Computational Researcher | CFD | Scientific ML"
+
+links:
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/sarath4u"
 
 include:
   - _pages
