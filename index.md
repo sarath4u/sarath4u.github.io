@@ -1,52 +1,94 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Resume"
+permalink: /
+author_profile: true
+classes: wide
 ---
 
-# Understanding flow physics through simulation and data.
+<div class="notice--primary">
+  <strong>Computational Researcher | CFD | Scientific Machine Learning</strong>
 
-I am a computational researcher working at the intersection of
-**computational fluid dynamics (CFD), high-fidelity simulation,
-turbulence modelling, and data-driven methods**.
+  Research in high-fidelity fluid simulations, turbulence modelling,
+  and data-driven approaches to computational fluid dynamics.
+</div>
 
-This website brings together my research, software development,
-and technical learning resources.
+[Download Resume (PDF)](/resume.pdf){: .btn .btn--primary}
+[View GitHub Projects](https://github.com/sarath4u){: .btn .btn--inverse}
 
-## Research & Projects
+## Professional Profile
 
-Explore my work on:
+Computational researcher specialising in high-fidelity simulations
+and data-driven modelling for turbulent flows. My work combines
+computational fluid dynamics, large-eddy simulation (LES), and
+machine learning to develop models that capture complex
+non-equilibrium flow physics.
 
-- Data-driven wall modelling for large-eddy simulation (LES)
-- Scientific machine learning for fluid dynamics
-- Numerical methods and computational science
-- Programming
+My broader engineering background includes aerospace research,
+numerical modelling, scientific programming, and high-performance
+computing.
 
-[Explore my research](research/)
+## Research Expertise
 
-## Short Lectures
+- **Computational Fluid Dynamics:** Large-eddy simulation,
+  turbulence modelling, and high-fidelity flow simulations.
+- **Data-Driven Modelling:** Machine-learning-based wall modelling
+  for non-equilibrium boundary layers.
+- **Scientific Computing:** Python, Fortran, parallel computing,
+  and HPC workflows.
+- **Aerospace Engineering:** Engineering research and development
+  experience in air-breathing propulsion.
 
-Fortran-Python interfaceing, XGBoost, Data-driven modeling.
+## Research Experience
 
-[Browse lectures](lectures/)
+### Recognised Researcher (R2) — Barcelona Supercomputing Center
 
-## Code Development
+Research on data-driven wall modelling for LES, including
+non-equilibrium boundary-layer effects and the development and
+evaluation of machine-learning models for turbulent flows.
 
-A guided tour of my scientific software, programming projects,
-algorithms, and implementation decisions.
+### Scientist / Engineer — ISRO
 
-[Explore my code](code/)
+Contributed to research and development activities for an
+indigenous scramjet programme, coordinating engineering activities
+across design, manufacturing, testing, and analysis teams.
 
-## Code Breakdowns
+## Education
 
-Detailed explanations of my own code: the problem being solved,
-the mathematical formulation, the algorithm, and the implementation.
+### PhD — Computational Fluid Dynamics
 
-[Read code breakdowns](code/)
+Barcelona Supercomputing Center
 
-## About
+Research focus: Non-equilibrium wall modelling in LES of
+high-speed transitional flows.
 
-My background combines aerospace engineering experience with
-doctoral research in high-fidelity simulation and data-driven
-turbulence modelling.
+### M.Eng. — Computational Mechanics
 
-[GitHub profile](https://github.com/sarath4u)
+École Centrale de Nantes
+
+### B.Tech. — Engineering
+
+National Institute of Technology Calicut
+
+## Selected Research
+
+- Data-driven wall modelling for LES involving non-equilibrium
+  boundary-layer effects.
+- Machine-learning-based wall-shear-stress prediction.
+- High-fidelity simulations for complex turbulent flows.
+
+## Technical Skills
+
+**Simulation:** CFD, LES, turbulence modelling, numerical methods
+
+**Programming:** Python, Fortran, C/C++
+
+**Machine Learning:** Data-driven modelling, TensorFlow, PyTorch
+
+**HPC:** MPI, OpenMP, SLURM
+
+## Publications & Projects
+
+Explore my [GitHub repositories](https://github.com/sarath4u)
+for software projects, scientific computing implementations,
+and technical development work.
