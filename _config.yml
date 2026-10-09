@@ -1,3 +1,7 @@
+remote_theme:
+"mmistakes/minimal-mistakes@4.28.0"
+
+minimal_mistakes_skin: "dark"
 title: "Sarath R. | Research & Code"
 description: "CFD, turbulence modeling, scientific machine learning, and computational reserach"
 url: "https://sarath4u.github.io"
@@ -5,11 +9,18 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
-
 permalink: /:categories/:title/
+
+plugins:
+  - jekyll-include-cache
 
 author:
   name: "Sarath R."
 
+include:
+  - _pages
+
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
