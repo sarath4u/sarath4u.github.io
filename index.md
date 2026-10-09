@@ -1,94 +1,52 @@
 ---
 layout: single
-title: "Resume"
+title: "Computational Researcher"
 permalink: /
 author_profile: true
 classes: wide
 ---
 
-<div class="notice--primary">
-  <strong>Computational Researcher | CFD | Scientific Machine Learning</strong>
+# Sarath R.
 
-  Research in high-fidelity fluid simulations, turbulence modelling,
-  and data-driven approaches to computational fluid dynamics.
-</div>
+**CFD · Turbulence Modelling · Scientific Machine Learning**
 
-[Download Resume (PDF)](/resume.pdf){: .btn .btn--primary}
-[View GitHub Projects](https://github.com/sarath4u){: .btn .btn--inverse}
+I am a computational researcher working at the intersection of high-fidelity fluid simulations, turbulence modelling, and scientific machine learning.
 
-## Professional Profile
+My research focuses on data-driven wall modelling for large-eddy simulation (LES), particularly in flows involving non-equilibrium boundary-layer effects. I am interested in combining physical understanding and machine learning to develop better predictive models for complex fluid flows.
 
-Computational researcher specialising in high-fidelity simulations
-and data-driven modelling for turbulent flows. My work combines
-computational fluid dynamics, large-eddy simulation (LES), and
-machine learning to develop models that capture complex
-non-equilibrium flow physics.
+## Research interests
 
-My broader engineering background includes aerospace research,
-numerical modelling, scientific programming, and high-performance
-computing.
+- **Data-driven turbulence modelling:** Machine-learning-based wall models for LES.
+- **High-fidelity CFD:** Numerical simulation and analysis of complex fluid flows.
+- **Scientific machine learning:** Data-driven approaches grounded in physical understanding.
+- **Aerospace applications:** Computational fluid mechanics and propulsion-related research.
 
-## Research Expertise
+## Experience
 
-- **Computational Fluid Dynamics:** Large-eddy simulation,
-  turbulence modelling, and high-fidelity flow simulations.
-- **Data-Driven Modelling:** Machine-learning-based wall modelling
-  for non-equilibrium boundary layers.
-- **Scientific Computing:** Python, Fortran, parallel computing,
-  and HPC workflows.
-- **Aerospace Engineering:** Engineering research and development
-  experience in air-breathing propulsion.
+### Recognised Researcher — Barcelona Supercomputing Center
 
-## Research Experience
-
-### Recognised Researcher (R2) — Barcelona Supercomputing Center
-
-Research on data-driven wall modelling for LES, including
-non-equilibrium boundary-layer effects and the development and
-evaluation of machine-learning models for turbulent flows.
+Research on data-driven wall modelling for LES, including non-equilibrium boundary-layer effects and the assessment of models using computational simulations.
 
 ### Scientist / Engineer — ISRO
 
-Contributed to research and development activities for an
-indigenous scramjet programme, coordinating engineering activities
-across design, manufacturing, testing, and analysis teams.
+Contributed to an indigenous scramjet development programme, coordinating engineering activities across design, manufacturing, testing, and analysis teams.
 
-## Education
+## Technical skills
 
-### PhD — Computational Fluid Dynamics
+- **Programming:** Python, Fortran, C/C++
+- **Machine learning:** XGBoost, TensorFlow, PyTorch
+- **High-performance computing:** MPI, OpenMP, SLURM
+- **Simulation tools:** Gmsh, ANSA, ParaView
 
-Barcelona Supercomputing Center
+## Selected publications
 
-Research focus: Non-equilibrium wall modelling in LES of
-high-speed transitional flows.
+1. *Data-driven wall modeling for LES involving non-equilibrium boundary layer effects.* International Journal of Numerical Methods for Heat & Fluid Flow, 2024.
+2. *A data-driven wall-shear stress model for LES using gradient boosted decision trees.* Lecture Notes in Computer Science, 2021.
 
-### M.Eng. — Computational Mechanics
+## Curriculum vitae
 
-École Centrale de Nantes
+[Download my full CV (PDF)](/resume.pdf)
 
-### B.Tech. — Engineering
+## Contact
 
-National Institute of Technology Calicut
-
-## Selected Research
-
-- Data-driven wall modelling for LES involving non-equilibrium
-  boundary-layer effects.
-- Machine-learning-based wall-shear-stress prediction.
-- High-fidelity simulations for complex turbulent flows.
-
-## Technical Skills
-
-**Simulation:** CFD, LES, turbulence modelling, numerical methods
-
-**Programming:** Python, Fortran, C/C++
-
-**Machine Learning:** Data-driven modelling, TensorFlow, PyTorch
-
-**HPC:** MPI, OpenMP, SLURM
-
-## Publications & Projects
-
-Explore my [GitHub repositories](https://github.com/sarath4u)
-for software projects, scientific computing implementations,
-and technical development work.
+- [GitHub profile](https://github.com/sarath4u)
