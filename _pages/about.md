@@ -33,30 +33,30 @@ I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-d
 
 ---
 
-## 🛠️ Core Expertise
+#### 🛠️ Core Expertise
 
 * **Physics & Engineering:** Fluid Mechanics • Thermodynamics • Turbulence Modeling
 * **Programming & Tools:** C/C++ • Fortran • Python (SciPy/NumPy) • Linux Environments • Git • High-Performance Computing (HPC)
 
 ---
 
-## 🔬 Selected Research & Projects
+#### 🔬 Selected Research & Projects
 
-### Non-equilibrium Wall Modeling In Large Eddy Simulation of High-speed Transitional Flows
+##### Non-equilibrium Wall Modeling In Large Eddy Simulation of High-speed Transitional Flows
 * Developed a data-driven wall model that captured transition physics.
 
-### Air Breathing Propulsion Project (Indian Space Research Organisation)
+##### Air Breathing Propulsion Project (Indian Space Research Organisation)
 * Contributed to the development of SCRAMJET combustor.
 
 ---
 
-## 📝 Knowledge Sharing & Notebook
+#### 📝 Knowledge Sharing & Notebook
 
 *Welcome to my digital garden! When I am not trying to solve complex engineering problems, I use this space to document my learning, and share my broader interests.*
 
 ---
 
-## 🌱 Beyond the Code & Lab
+#### 🌱 Beyond the Code & Lab
 
 When I step away from the workstation, you can find me:
 *  **Spending quality time with family**
