@@ -58,6 +58,6 @@ I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-d
 ## 🌱 Beyond the Code & Lab
 
 When I step away from the workstation, you can find me:
-*  **[Hobby 1, e.g., Spending quality time with family]**
-*  **[Hobby 2, e.g., Playing Badmintor]**
-*  **[Hobby 3, e.g., Reading]**
+*  **[Spending quality time with family]**
+*  **[Playing Badmintor]**
+*  **[Reading]**
