@@ -46,7 +46,6 @@ I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-d
 
 ### [Air Breathing Propulsion Project (Indian Space Research Organisation)]
 * Contributed to the development of SCRAMJET combustor.
-* [🔗 View Project Documentation]
 
 ---
 
