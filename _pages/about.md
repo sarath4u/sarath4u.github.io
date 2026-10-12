@@ -41,10 +41,10 @@ I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-d
 
 ## 🔬 Selected Research & Projects
 
-### [Non-equilibrium Wall Modeling In Large Eddy Simulation of High-speed Transitional Flows]
+### Non-equilibrium Wall Modeling In Large Eddy Simulation of High-speed Transitional Flows
 * Developed a data-driven wall model that captured transition physics.
 
-### [Air Breathing Propulsion Project (Indian Space Research Organisation)]
+### Air Breathing Propulsion Project (Indian Space Research Organisation)
 * Contributed to the development of SCRAMJET combustor.
 
 ---
@@ -58,6 +58,6 @@ I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-d
 ## 🌱 Beyond the Code & Lab
 
 When I step away from the workstation, you can find me:
-*  **[Spending quality time with family]**
-*  **[Playing Badmintor]**
-*  **[Reading]**
+*  **Spending quality time with family**
+*  **Playing Badminton**
+*  **Reading**
