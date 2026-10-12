@@ -27,9 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Hi, I'm Dr. [Sarath Radhakrishnan] 👋
+Hi, I'm Dr. Sarath Radhakrishnan
 
 I am a **Mechanical Engineer and CFD Specialist** with a PhD focused on **Data-driven wall-modeling in LES**. I specialize in translating complex physical phenomena into high-performance computational models using data-driven methods, bridging the gap between advanced fluid physics and software engineering.
+
 ---
 
 ## 🛠️ Core Expertise
