@@ -5,5 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - sarath4u/srk-codebase
-  - sarath4u/3D-FEM
-  - sarath4u/2d-FEM
+  - sarath4u/3D_FEM
+  - sarath4u/2d_FEM
