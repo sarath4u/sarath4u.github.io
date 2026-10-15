@@ -4,7 +4,13 @@ cv:
   email: sarath.r20@gmail.com
   location: Abu Dhabi, UAE
   image: ""
-  summary: Researcher with expertise in computational fluid dynamics, turbulence-resolving simulations, non- linear flow physics, and scientific computing. Experienced in high-fidelity numerical methods, surrogate modeling, and machine learning approaches for engineering applications, including the development of surrogate and reduced-order models of complex systems. Background includes aerospace propulsion systems, large-scale CFD workflows, and multi-physics computational research. Interested in non-linear mechanics, fluid–structure interactions, scientific machine learning, and physics-informed modeling of complex dynamical systems.
+  summary: >
+    Computational engineer with 7 years of experience in CFD, Large-Eddy Simulation (LES), non-linear flow physics, 
+    and scientific computing. Developed a data-driven wall model for LES of turbulent wall-bounded flows during 
+    doctoral research, combining turbulence modeling with machine-learning methods. Brings aerospace propulsion 
+    experience from SCRAMJET systems engineering at ISRO to large-scale CFD and scientific computing research. 
+    Contributed to reduced-order modeling by generating and analysing high-fidelity urban flow simulation datasets. 
+    Mentored graduate students and delivered science outreach.
 
 
   social_networks:
@@ -32,7 +38,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-#          - Description 1.
+          - "Thesis: Non-Equilibrium Wall-modeling in Large Eddy Simulation of High-speed Transitional Flows. Advisors: Oriol Lehmkuhl and Daniel Mira."
 #          - Description 2.
 
       - institution: École Centrale de Nantes
@@ -52,38 +58,53 @@ cv:
         start_date: 2024
         end_date: 2025
         summary:
-        highlights:
-          - Contributed to the development of reduced-order and surrogate-modelling approaches for CFD applications.
-          - Collaborated with interdisciplinary and international research teams across CFD and scientific- computing projects.
-          - Supported graduate students in numerical modelling, data analysis, and scientific problem-solving.
+        highlights: >
+          - Generated 18+ high-fidelity urban flow simulations (≈14 TB each) spanning inlet flow directions from 0° to 340°, 
+          supporting AI-based digital twins for fast prediction of air pollutant distribution and odour impact in cities (APPWIND project)
+          - Resolved cross-platform data interoperability between BSC's in-house solver and the partner university's OpenFOAM 
+          environment by converting meshes to OpenFOAM format (ANSA) and exporting velocity, pressure, and turbulent-viscosity 
+          fields as VTK (ParaView), troubleshooting node-numbering and partitioning issues to enable the partner's passive-scalar 
+          pollutant-dispersion simulations
+          - Contributed models and simulations within the vCity urban digital-twin platform as part of the platform's modeling team 
+          Mentored 3 graduate interns and master's students in numerical modeling, CFD workflows, and Python-based data analysis, 
+          providing technical guidance on in-house solvers and HPC environments.
 
       - company: Barcelona Supercomputing Center
         position: First Stage Researcher
         location: Barcelona, Spain
         start_date: 2018
         end_date: 2024
-        highlights:
-          - Research focus{:} data-driven non-equilibrium wall modelling for Large-Eddy Simulation (LES) of turbulent wall-bounded flows.
-          - Combined turbulence modelling, numerical simulation, and machine-learning methods
-          - Conducted high-fidelity wall-modeled large eddy simulations of complex three-dimensional flows involving strong anisotropy, separation, and non-linear turbulent interactions such as NASA Junction flow, NASA Hump, Neutral Atmospheric Boundary Layer flow over urban areas, etc.
-          - Developed machine-learning-assisted wall models for LES to represent unresolved near-wall turbulence in wall-bounded turbulent flows
+        highlights: > 
+          - Conducted high-fidelity wall-modeled Large-Eddy Simulations of complex three-dimensional flows involving strong anisotropy, 
+          separation, and non-linear turbulent interactions, including NASA Junction flow, NASA Hump, and neutral atmospheric boundary layer 
+          flow over urban areas
+          - Developed a machine-learning-assisted wall model for LES that captured relaminarization (turbulent-to-laminar transition) — a capability 
+          physics-based wall models inherently lack — and outperformed the in-house equilibrium wall model in corners and recirculation regions
           - Analysed large numerical datasets using Python-based scientific computing and data-analysis workflows
-          - Performed HPC-based CFD workflows using parallel computing environments and large-scale simulation datasets
+          - Performed HPC-based CFD workflows using parallel computing environments, running simulations from under one million to 87 million elements
           - Developed reproducible numerical-analysis and post-processing workflows for simulation data interpretation
-          - Contributed to technical publications, conference papers, and presentations in CFD and HPC-related research areas.
+          - Authored a peer-reviewed conference paper as first author (published in Lecture Notes in Computer Science) and contributed to 
+          technical publications, conference papers, and presentations in CFD and HPC-related research areas
+          - Contributed high-fidelity LES data and data-driven wall-modeling research to the HifiTurb project's turbulence-model development
+          - Provided wall-modeling data and the data-driven wall model used in an Argonne National Laboratory study on XGBoost-based wall modeling 
+          in Nek5000; the resulting report cites the first-author conference paper
 
       - company: Indian Space Research Organization (ISRO)
         position: System Engineer
         location: Thiruvananthapuram, India
         start_date: 2008
         end_date: 2015
-        highlights:
-          - Worked on aerospace-related engineering projects within the Air Breathing Propulsion Project in a mission-oriented environment
-          - Contributed to engineering-analysis activities involving fluid mechanics, thermal-fluid systems, heat transfer, and structural mechanics
-          - Supported engineering activities related to propulsion-system-oriented thermo-fluid problems and associated engineering workflows
-          - Worked in interdisciplinary engineering teams operating under strict quality, reliability, and documentation standards
-          - Participated in technical problem-solving and engineering-analysis tasks for aerospace applications
-          - Mentored graduate engineering trainees in engineering fundamentals and analytical problem- solving
+        highlights: >
+          - Served as System Engineer in the Air Breathing Propulsion Project, coordinating design, manufacturing, testing, and 
+          validation agencies
+          - Supported the SCRAMJET engine programme through its evolution from Technology Readiness Level (TRL) 3 to TRL 6, enabling 
+          a flight-testable prototype
+          - Drove ground-combustor testing, instrumentation, and validation activities for propulsion system components
+          - Covered the full component lifecycle — from engineering drawings (AutoCAD, Autodesk Inventor) through manufacturing, testing, qualification, and final integration
+          - Coordinated interdisciplinary teams operating under strict quality, reliability, and documentation standards
+          - Mentored graduate engineering trainees in engineering fundamentals and analytical problem-solving
+          - Participated in a vehicle characterisation launch campaign, flying dummy engine payloads on a sounding rocket to validate the 
+          carrier configuration ahead of the SCRAMJET flight test
 
 #    Volunteer:
 #      - company: People's Climate March
@@ -112,21 +133,21 @@ cv:
 #        awarder: German Physical Society
 #        summary: Awarded for outstanding scientific achievement
 
-#    Publications:
-#      - title: Zur Elektrodynamik bewegter Körper
-#        authors:
-#          - Albert Einstein
-#        publisher: Annalen der Physik
-#        releaseDate: 1905-06-30
-#        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+    Publications:
+      - title:  Data-driven wall modeling for LES involving non-equilibrium boundary layer effects
+        authors:
+          - Radhakrishnan S., Calafell J., Miró A., Font B., Lehmkuhl O.
+        publisher: Emerald Publishing Limited
+        releaseDate: 2024-09-02
+        url: https://www.emerald.com/hff/article/34/8/3166/1234508
 #        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-#      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-#        authors:
-#          - Albert Einstein
-#        publisher: Annalen der Physik
-#        releaseDate: 1905-03-18
-#        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+      - title: A data-driven wall-shear stress model for LES using gradient boosted decision trees
+        authors:
+          - Radhakrishnan S., Gyamfi L., Miró A., Font B., Calafell J., Lehmkuhl O. 
+        publisher: Springer International Publishing
+        releaseDate: 2021-06-24
+        url: https://link.springer.com/chapter/10.1007/978-3-030-90539-2_7
 #        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
 #      - title: Die Grundlage der allgemeinen Relativitätstheorie
@@ -138,25 +159,31 @@ cv:
 #        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: CFD, Numerical Modeling & Scientific Computing
+      - name: Numerical Modeling & Scientific Computing
         level:
         icon:
-        keywords: "Computational Fluid Dynamics (CFD), Large Eddy Simulation, Turbuelence Modeling and Wall Modeling, Numerical Methods & Scientific Computing, Reduced Order & Surrogate Modeling, Data-driven and AI/ML-assisted Modeling, Scientific workflow automation and post-processing, CFD data analysis and visualization, verification, validation, and numerical-analysis awareness, GMSH, ANSA"
+        keywords: >
+        "Computational Fluid Dynamics (CFD), Large Eddy Simulation (LES), Turbulence Modeling and Wall Modeling, 
+        Reduced Order and Surrogate Modeling, Data-driven and AI/ML-assisted Modeling, Scientific workflow automation 
+        and post-processing, CFD data analysis and visualization, Verification and Validation (V&V), GMSH, ANSA, 
+        Finite Element Method (FEM), Finite Volume Method (FVM)"
 
       - name: Programming & Automation
         level:
         icon:
-        keywords: "Python (NumPy, SciPy, Pandas, Matplotlib) , Fortran, C/C++, Linux-based scientific computing workflows Scientific scripting and data processing, Matlab"
+        keywords: >
+        "Python (NumPy, SciPy, Pandas, Matplotlib) Fortran C/C++ Linux-based scientific computing workflows 
+        Scientific scripting and data processing Matlab TensorFlow scikit-learn"
 
       - name: High-Performance Computing
         level:
         icon:
-        keywords: "HPC environments and parallel workflows, Large-scale simulation data processing, Numerical workflow optimisation, Experience working with supercomputing systems"
+        keywords: "HPC environments and parallel workflows, Large-scale simulation data processing, Numerical workflow optimisation"
 
       - name: Engineering & Simulation Software
         level:
         icon:
-        keywords: "ANSYS (APDL & Mechanical), Abaqus (exposure) , Finite element-based in-house code development, Autodesk Inventor, AutoCAD"
+        keywords: "ANSYS (APDL & Mechanical), Finite element-based in-house code development"
     
     Languages:
       - name: Malayalam
@@ -177,16 +204,23 @@ cv:
     Interests:
       - name: 
         icon: fa-solid fa-tag
-        keywords: "Turbulence modelling and wall modelling for LES, Compressible and wall-bounded turbulent flows, Heat transfer and aero-thermal flow physics, Numerical simulation and scientific computing, Reduced-order and surrogate modeling, AI/ML-assisted CFD and physics-informed modelling, High-performance computing and large-scale simulation workflows, Data-driven modeling for fluid dynamics applications"
+        keywords: > 
+        "Wall-modeled Large-Eddy Simulation (LES) of turbulent wall-bounded flows, 
+        Non-equilibrium wall modeling, transitional flows, and relaminarization, 
+        Data-driven and physics-informed modeling for CFD (Scientific Machine Learning), 
+        Reduced-order and surrogate modeling for engineering applications, 
+        High-performance computing and large-scale numerical simulation, 
+        Aerospace fluid dynamics and propulsion (compressible, aero-thermal flows), 
+        Urban environmental fluid mechanics and digital twins"
 
     Certificates:
       - name: Deep Learning Specialization
-        date: 2021--
+        date: 2021-07-
         issuer: DeepLearning.AI
         icon: fa-solid fa-location-dot
 
       - name: Fundamentals of Parallelism on Intel Architecture, Intel
-        date: 2021--
+        date: 2021-08-
         issuer: Intel
         icon: fa-solid fa-tag
 
