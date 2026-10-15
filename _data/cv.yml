@@ -58,7 +58,7 @@ cv:
         start_date: 2024
         end_date: 2025
         summary:
-        highlights: >
+        highlights: |
           - Generated 18+ high-fidelity urban flow simulations (≈14 TB each) spanning inlet flow directions from 0° to 340°, 
           supporting AI-based digital twins for fast prediction of air pollutant distribution and odour impact in cities (APPWIND project)
           - Resolved cross-platform data interoperability between BSC's in-house solver and the partner university's OpenFOAM 
@@ -74,7 +74,7 @@ cv:
         location: Barcelona, Spain
         start_date: 2018
         end_date: 2024
-        highlights: > 
+        highlights: | 
           - Conducted high-fidelity wall-modeled Large-Eddy Simulations of complex three-dimensional flows involving strong anisotropy, 
           separation, and non-linear turbulent interactions, including NASA Junction flow, NASA Hump, and neutral atmospheric boundary layer 
           flow over urban areas
@@ -94,7 +94,7 @@ cv:
         location: Thiruvananthapuram, India
         start_date: 2008
         end_date: 2015
-        highlights: >
+        highlights: |
           - Served as System Engineer in the Air Breathing Propulsion Project, coordinating design, manufacturing, testing, and 
           validation agencies
           - Supported the SCRAMJET engine programme through its evolution from Technology Readiness Level (TRL) 3 to TRL 6, enabling 
@@ -163,27 +163,27 @@ cv:
         level:
         icon:
         keywords: >
-        "Computational Fluid Dynamics (CFD), Large Eddy Simulation (LES), Turbulence Modeling and Wall Modeling, 
+        Computational Fluid Dynamics (CFD), Large Eddy Simulation (LES), Turbulence Modeling and Wall Modeling, 
         Reduced Order and Surrogate Modeling, Data-driven and AI/ML-assisted Modeling, Scientific workflow automation 
         and post-processing, CFD data analysis and visualization, Verification and Validation (V&V), GMSH, ANSA, 
-        Finite Element Method (FEM), Finite Volume Method (FVM)"
+        Finite Element Method (FEM), Finite Volume Method (FVM)
 
       - name: Programming & Automation
         level:
         icon:
         keywords: >
-        "Python (NumPy, SciPy, Pandas, Matplotlib) Fortran C/C++ Linux-based scientific computing workflows 
-        Scientific scripting and data processing Matlab TensorFlow scikit-learn"
+        Python (NumPy, SciPy, Pandas, Matplotlib) Fortran C/C++ Linux-based scientific computing workflows 
+        Scientific scripting and data processing Matlab TensorFlow scikit-learn
 
       - name: High-Performance Computing
         level:
         icon:
-        keywords: "HPC environments and parallel workflows, Large-scale simulation data processing, Numerical workflow optimisation"
+        keywords: HPC environments and parallel workflows, Large-scale simulation data processing, Numerical workflow optimisation
 
       - name: Engineering & Simulation Software
         level:
         icon:
-        keywords: "ANSYS (APDL & Mechanical), Finite element-based in-house code development"
+        keywords: ANSYS (APDL & Mechanical), Finite element-based in-house code development
     
     Languages:
       - name: Malayalam
@@ -205,13 +205,13 @@ cv:
       - name: 
         icon: fa-solid fa-tag
         keywords: > 
-        "Wall-modeled Large-Eddy Simulation (LES) of turbulent wall-bounded flows, 
+        Wall-modeled Large-Eddy Simulation (LES) of turbulent wall-bounded flows, 
         Non-equilibrium wall modeling, transitional flows, and relaminarization, 
         Data-driven and physics-informed modeling for CFD (Scientific Machine Learning), 
         Reduced-order and surrogate modeling for engineering applications, 
         High-performance computing and large-scale numerical simulation, 
         Aerospace fluid dynamics and propulsion (compressible, aero-thermal flows), 
-        Urban environmental fluid mechanics and digital twins"
+        Urban environmental fluid mechanics and digital twins
 
     Certificates:
       - name: Deep Learning Specialization
