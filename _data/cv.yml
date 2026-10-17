@@ -1,16 +1,16 @@
 cv:
-#  name: Sarath Radhakrishnan
-#  label: Computational Researcher
-#  email: sarath.r20@gmail.com
-#  location: Abu Dhabi, UAE
-#  image: ""
-#  summary: >
-#    Computational engineer with 7 years of experience in CFD, Large-Eddy Simulation (LES), non-linear flow physics, 
-#    and scientific computing. Developed a data-driven wall model for LES of turbulent wall-bounded flows during 
-#    doctoral research, combining turbulence modeling with machine-learning methods. Brings aerospace propulsion 
-#    experience from SCRAMJET systems engineering at ISRO to large-scale CFD and scientific computing research. 
-#    Contributed to reduced-order modeling by generating and analysing high-fidelity urban flow simulation datasets. 
-#    Mentored graduate students and delivered science outreach.
+  name: Sarath Radhakrishnan
+  label: Computational Researcher
+  email: sarath.r20@gmail.com
+  location: Abu Dhabi, UAE
+  image: ""
+  summary: >
+    Computational engineer with 7 years of experience in CFD, Large-Eddy Simulation (LES), non-linear flow physics, 
+    and scientific computing. Developed a data-driven wall model for LES of turbulent wall-bounded flows during 
+    doctoral research, combining turbulence modeling with machine-learning methods. Brings aerospace propulsion 
+    experience from SCRAMJET systems engineering at ISRO to large-scale CFD and scientific computing research. 
+    Contributed to reduced-order modeling by generating and analysing high-fidelity urban flow simulation datasets. 
+    Mentored graduate students and delivered science outreach.
 
 
 #  social_networks:
