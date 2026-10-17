@@ -55,23 +55,23 @@ cv:
             Internship project funded by ANSYS; used ANSYS-APDL to model and simulate uterine synchronization.
 #          - Description 2.
 
-#    Experience:
-#      - company: Barcelona Supercomputing Center
-#        position: Recognized Researcher
-#        location: Barcelona, Spain
-#        start_date: 2024
-#        end_date: 2025
-#        summary:
-#        highlights: |
-#          - Generated 18+ high-fidelity urban flow simulations (≈14 TB each) spanning inlet flow directions from 0° to 340°, 
-#          supporting AI-based digital twins for fast prediction of air pollutant distribution and odour impact in cities (APPWIND project)
-#          - Resolved cross-platform data interoperability between BSC's in-house solver and the partner university's OpenFOAM 
-#          environment by converting meshes to OpenFOAM format (ANSA) and exporting velocity, pressure, and turbulent-viscosity 
-#          fields as VTK (ParaView), troubleshooting node-numbering and partitioning issues to enable the partner's passive-scalar 
-#          pollutant-dispersion simulations
-#          - Contributed models and simulations within the vCity urban digital-twin platform as part of the platform's modeling team 
-#          Mentored 3 graduate interns and master's students in numerical modeling, CFD workflows, and Python-based data analysis, 
-#          providing technical guidance on in-house solvers and HPC environments.
+    Experience:
+      - company: Barcelona Supercomputing Center
+        position: Recognized Researcher
+        location: Barcelona, Spain
+        start_date: 2024
+        end_date: 2025
+        summary:
+        highlights: |
+          - Generated 18+ high-fidelity urban flow simulations (≈14 TB each) spanning inlet flow directions from 0° to 340°, 
+          supporting AI-based digital twins for fast prediction of air pollutant distribution and odour impact in cities (APPWIND project)
+          - Resolved cross-platform data interoperability between BSC's in-house solver and the partner university's OpenFOAM 
+          environment by converting meshes to OpenFOAM format (ANSA) and exporting velocity, pressure, and turbulent-viscosity 
+          fields as VTK (ParaView), troubleshooting node-numbering and partitioning issues to enable the partner's passive-scalar 
+          pollutant-dispersion simulations
+          - Contributed models and simulations within the vCity urban digital-twin platform as part of the platform's modeling team 
+          - Mentored 3 graduate interns and master's students in numerical modeling, CFD workflows, and Python-based data analysis, 
+          providing technical guidance on in-house solvers and HPC environments.
 
 #      - company: Barcelona Supercomputing Center
 #        position: First Stage Researcher
