@@ -13,32 +13,32 @@ cv:
     Mentored graduate students and delivered science outreach.
 
 
-#  social_networks:
-#    - network: GitHub
-#      username: sarath4u
-#    - network: LinkedIn
-#      username: https://www.linkedin.com/in/sarath-radhakrishnan-bba11a115/
+  social_networks:
+    - network: GitHub
+      username: sarath4u
+    - network: LinkedIn
+      username: https://www.linkedin.com/in/sarath-radhakrishnan-bba11a115/
 
-#  address:
-#    street:
-#    city: Abu Dhabi
-#    region:
-#    postalCode:
-#    countryCode: UAE
+  address:
+    street:
+    city: Abu Dhabi
+    region:
+    postalCode:
+    countryCode: UAE
 
-#  sections:
-#    Education:
-#      - institution: Universitat Politècnica de Catalunia
-#        location: Barcelona, Spain
-#        url: 
-#        area: Aerospace Science and Technology
-#        studyType: PhD
-#        start_date: 2018
-#        end_date: 2024
-#        score: ""
-#        courses: ""
-#        highlights:
-#          - "Thesis: Non-Equilibrium Wall-modeling in Large Eddy Simulation of High-speed Transitional Flows. Advisors: Oriol Lehmkuhl and Daniel Mira."
+  sections:
+    Education:
+      - institution: Universitat Politècnica de Catalunia
+        location: Barcelona, Spain
+        url: https://www.upc.edu/en
+        area: Aerospace Science and Technology
+        studyType: PhD
+        start_date: 2018
+        end_date: 2024
+        score: ""
+        courses: ""
+        highlights:
+          - "Thesis: Non-Equilibrium Wall-modeling in Large Eddy Simulation of High-speed Transitional Flows. Advisors: Oriol Lehmkuhl and Daniel Mira."
 #          - Description 2.
 
 #      - institution: École Centrale de Nantes
