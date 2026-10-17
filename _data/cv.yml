@@ -43,6 +43,7 @@ cv:
 
       - institution: École Centrale de Nantes
         location: Nantes, France
+        url: https://www.ec-nantes.fr/english-version
         area: Computatational Mechanics
         studyType: Master of Engineering
         start_date: 2015
