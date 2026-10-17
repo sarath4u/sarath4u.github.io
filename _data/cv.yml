@@ -259,6 +259,8 @@ cv:
          simulations (≈14 TB each) covering inlet flow directions from 0° to 340° and generated datasets 
          for reduced-order modeling; coordinated across stakeholders, resolved cross-platform problems, 
          and shared data across the project consortium; continued dataset generation through April 2026
+        start_date: 2023
+        end_date: 2025
 
       - name: vCity
         summary: >
@@ -267,13 +269,17 @@ cv:
          determined through iterative analysis to extract relevant modes; the dense sampling produced high-fidelity 
          datasets of ≈14 TB per simulation. Also identified a scaling constraint in the parallel QR factorization (LAPACK dorgqr), 
          where the number of processes must keep matrix columns greater than rows to avoid memory errors when increasing partitions
+        start_date: 2023
+        end_date: 2025
 
       - name: Air Breathing Propulsion Project
         summary: >
          Development of India's SCRAMJET engine — as System Engineer, supported the programme from TRL 3 to TRL 6, 
          coordinating design, manufacturing, testing, and validation agencies and participating in the vehicle 
          characterisation launch campaign ahead of the flight test 
-
+        start_date: 2008
+        end_date: 2015
+        
 #    References:
 #      - name: Professor John Doe
 #        icon: fa-solid fa-laptop
