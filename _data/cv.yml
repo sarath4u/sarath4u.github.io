@@ -48,11 +48,10 @@ cv:
         studyType: Master of Engineering
         start_date: 2015
         end_date: 2017
-        highlights:
-          - Thesis: | 
-              Modelling of Uterine Synchronisation by a Hydro-Mechanical and Electrical Activation Mechanism - Mechanical Modelling of Uterus. 
-              Advanced coursework in continuum mechanics, numerical methods, finite element methods, and computational modelling. 
-              Internship project funded by ANSYS; used ANSYS-APDL to model and simulate uterine synchronization.
+        highlights: >
+          - Thesis: Modelling of Uterine Synchronisation by a Hydro-Mechanical and Electrical Activation Mechanism - Mechanical Modelling of Uterus. 
+            Advanced coursework in continuum mechanics, numerical methods, finite element methods, and computational modelling. 
+            Internship project funded by ANSYS; used ANSYS-APDL to model and simulate uterine synchronization.
 #          - Description 2.
 
 #    Experience:
